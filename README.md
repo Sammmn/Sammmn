@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá,seja bem-vindo 👋😃
 
 <!--
 **Sammmn/Sammmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Me chamo Samuel Marques, sou natual de Salvador/Bahia, e amo tecnologia<p>
