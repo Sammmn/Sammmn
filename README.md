@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Me chamo Samuel Marques, sou natual de Salvador/Bahia, e amo tecnologia<p>
+<p>Me chamo Samuel Marques e amo tecnologia<p>
