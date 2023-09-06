@@ -1,6 +1,6 @@
 <h2>Hello, welcome to my GitHub profile 👋😃</h2> 
 
-<p>My name is Samuel Marques and i am a software development student, sometimes i post my projects here, how about you take a look at them?<p>
+<p>My name is Samuel Marques, i am a software development student, and sometimes i post my projects here, how about you take a look at them?<p>
 <div align="center">
   <img src="https://github.com/Sammmn/Sammmn/assets/120694081/eaf5f5b5-1cff-4369-875d-137ac1753114" width=250px>
 </div>
