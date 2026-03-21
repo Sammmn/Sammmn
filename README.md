@@ -1,4 +1,4 @@
-<h2>Hello, welcome to my GitHub profile 👋😃</h2> 
+<h2>Welcome to my GitHub profile 👋😃</h2> 
 
 <p>My name is Samuel Marques, i am a software development student, and sometimes i post my projects here, how about you take a look at them?<p>
 <div align="center">
