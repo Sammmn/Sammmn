@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sam!
+# 👋 Hi, I'm Samuel!
 
 <div align="center">
   <img src="https://github.com/Sammmn/Sammmn/assets/120694081/eaf5f5b5-1cff-4369-875d-137ac1753114" width=250px>
