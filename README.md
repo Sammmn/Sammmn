@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samuel!
 
 <div align="center">
-  <img src="https://github.com/Sammmn/Sammmn/assets/120694081/eaf5f5b5-1cff-4369-875d-137ac1753114" width=250px>
+  <img src="https://github.com/Sammmn/Sammmn/assets/120694081/eaf5f5b5-1cff-4369-875d-137ac1753114" width="250px">
 </div>
 
 💻 Back-end Developer in training  
@@ -22,20 +22,26 @@ I enjoy working in teams, sharing knowledge, and building efficient solutions.
 ## 🚀 Technologies
 
 ### 🔧 Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&r=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboote)
-![Hibernate](https://img.shields.io/badge/Hibernate=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?e-badge&logo=postman&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whiteeSQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresqlte)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🌐 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badgel5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logogoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-btstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
