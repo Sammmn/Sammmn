@@ -8,7 +8,6 @@
 🚀 Focused on Java, REST APIs and Web Development  
 📚 Always learning and improving my skills  
 
----
 
 ## 🧠 About Me
 
@@ -17,7 +16,6 @@ I have experience with back-end development using Java and Spring Boot, as well 
 
 I enjoy working in teams, sharing knowledge, and building efficient solutions.
 
----
 
 ## 🚀 Technologies
 
@@ -44,7 +42,6 @@ I enjoy working in teams, sharing knowledge, and building efficient solutions.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🎯 Goal
 
